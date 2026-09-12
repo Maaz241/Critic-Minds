@@ -1,0 +1,22 @@
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# Secrets and environment files
+.env
+.env.local
+.streamlit/secrets.toml
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Storage & Temporary files
+*.log
+.DS_Store
+Thumbs.db
+DocuMind-AI/

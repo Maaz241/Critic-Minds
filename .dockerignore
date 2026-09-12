@@ -1,0 +1,16 @@
+.venv
+env
+venv
+.git
+.gitignore
+.env
+.env.local
+.streamlit/secrets.toml
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache
+*.log
+DocuMind-AI
+tests
