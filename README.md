@@ -1,7 +1,7 @@
 # Critic Minds 🧠
 > **From Textbook Knowledge to Critical Thinking**
 
-Critic Minds is a GenAI-powered EdTech platform that transforms textbook and lesson content into evidence-grounded critical-thinking challenges and evaluates the quality of student reasoning using explicit rubrics.
+Critic Minds is a GenAI-powered EdTech platform that transforms textbook and lesson content into evidence-grounded critical thinking challenges and evaluates the quality of student reasoning using explicit rubrics.
 
 Built for the 2-Day Hackathon, Critic Minds solves a fundamental classroom problem: instruction and assessments overemphasize rote memorization. Critic Minds converts passive curriculum documents into authentic inquiry situations where students analyze evidence, expose assumptions, and justify conclusions.
 
